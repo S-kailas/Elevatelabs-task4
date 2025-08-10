@@ -3,7 +3,7 @@ I used Windows Defender Firewall with advanced Security to learn Firewall Rules 
 
 Steps that I proceeded to make a rule that blocks brave for getting me tcp packets 
 
-->In run dialog box "wf.msc" run it then windows defender firewall with advanced security opens up
+->In run dialog box "wf.msc" run it then windows defender firewall with advanced security opened up
 ->I Select outbound Rule 
 ->On the right panel I clicked newrule
 ->A window named New Outbound Rule wizard appears 

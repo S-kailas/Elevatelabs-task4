@@ -1,0 +1,20 @@
+I proceeded with the GUI interface of Windows Firewall.
+I used Windows Defender Firewall with advanced Security to learn Firewall Rules and add new rules 
+
+Steps that I proceeded to make a rule that blocks brave for getting me tcp packets 
+
+->In run dialog box "wf.msc" run it then windows defender firewall with advanced security opens up
+->I Select outbound Rule 
+->On the right panel I clicked newrule
+->A window named New Outbound Rule wizard appears 
+->On the rule type I selected Custom
+->On the program section I gave the braves program path in my PC:%ProgramFiles%\BraveSoftware\Brave-Browser\Application\brave.exe
+->On the protocol type I selected TCP
+->On the actions section I seleck block
+->I set all other default
+->And I gave it a name
+->After that I ran a brave browser search that ended up in an error showing blocked by firewall
+
+***After all from this task I understood what is firewall,How it works,And I eventually got all the answers for the interview questions that was given in the PDF 
+
+~ALL THE IMAGES RELATED TO THIS ARE ATTACHED TO THE REPOSITORY 
